@@ -1,0 +1,24 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    background-image: url("beg.png");
+    background-repeat: inherit;
+} 
+ h2 {
+     color: purple;
+     text-decoration: underline;
+     font-weight: bold;
+     font-size: 20px;
+    }
+    
+    .main-title {
+        color: red;
+        text-align: center;
+    }
+    
+p {
+    font-weight: bold;
+    text-transform: 30px;
+    text-align: center;
+}
